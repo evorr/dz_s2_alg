@@ -14,7 +14,7 @@ public class dz_s1_sort_heap {
             System.out.println();
         }
     }
-    C:\Users\Лена\IdeaProjects\algoritmy_2\src\dz_s1_sort_heap.java
+    
     static class SortUtils{
         static void sort(int[] arr){
             for (int i = arr.length / 2 - 1; i >= 0; i--){
